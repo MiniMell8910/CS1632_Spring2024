@@ -3,7 +3,7 @@ package edu.pitt.cs;
 import static org.junit.Assert.*;
 
 import org.junit.*;
-import org.mockito.*;
+//import org.mockito.*;
 
 public class ValueTest {
 	Value value;
